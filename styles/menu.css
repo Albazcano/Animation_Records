@@ -12,7 +12,6 @@
 #botonMenu:checked ~ .menu{
     display: flex;
     position: absolute;
-    /*left: 820px;*/
     top: 111px;
     flex-direction: column;
 }
